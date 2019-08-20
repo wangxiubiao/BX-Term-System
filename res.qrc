@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.qss</file>
+        <file>llog.rc</file>
+        <file>logo_32.ico</file>
+        <file>logo2-112.png</file>
+        <file>bx-logo.jpg</file>
+        <file>close1.jpg</file>
+        <file>close.png</file>
+        <file>min.png</file>
+    </qresource>
+</RCC>

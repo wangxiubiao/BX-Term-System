@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/mythread.o
+release/dbutil.o
+release/probeinfo.o
+release/mydata.o
+release/qrc_res.o
+release/moc_mainwindow.o
+release/moc_mythread.o
+release/moc_dbutil.o
